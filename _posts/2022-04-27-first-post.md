@@ -1,5 +1,1 @@
----
-title: "Day 1"
----
-
 Today, I created my blog post.
